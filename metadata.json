@@ -1,0 +1,7 @@
+{
+  "name": "ArtesãPro AI",
+  "description": "Uma plataforma completa para artesãs profissionalizarem seu negócio: transforme fotos de produtos, crie legendas magnéticas, roteiros de stories e mascotes exclusivos usando o poder da IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
